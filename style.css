@@ -127,7 +127,7 @@ body{
 }
 .content button{
     background-color:  hsl(5, 85%, 63%);
-    color: hsl(36, 100%, 99%);
+    color: hsl(240, 100%, 5%);
     padding: 0.8rem 2rem;
     font-size: 1rem;
     font-weight: 700;
@@ -140,6 +140,7 @@ body{
 }
 .content button:hover{
     background-color: hsl(240, 100%, 5%);
+    color: hsl(36, 100%, 99%);
     cursor: pointer;
 }
 
